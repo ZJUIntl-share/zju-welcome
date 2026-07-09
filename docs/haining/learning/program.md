@@ -1,11 +1,6 @@
 # 培养方案
 海宁国际校区的培养方案可在以下地点查看：
 
-## ZJUI
-
-- [ZJUI 培养方案(无需登录)](https://zjui.intl.zju.edu.cn/teaching/undergraduate)
-- [ZJUI 培养方案(需登录)](https://zjuintl.sharepoint.com/sites/ZJUIUG)
-
 ## ZJE
 
 > 作者：@tutu、@Yyijun
@@ -27,3 +22,8 @@
 生物信息学专业总学分 146 分，其中必修课 126 学分，选修课 20 学分；其中通识课程 28 学分，大类课程 13 学分，专业及专业基础课程 85 学分（含105实践 17.5 学分）。
 
 - [生物信息学专业课程清单](../../assets/haining/BMI%20dual-degree%20courses.pdf)
+
+## ZJUI
+
+- [ZJUI 培养方案(无需登录)](https://zjui.intl.zju.edu.cn/teaching/undergraduate)
+- [ZJUI 培养方案(需登录)](https://zjuintl.sharepoint.com/sites/ZJUIUG)
