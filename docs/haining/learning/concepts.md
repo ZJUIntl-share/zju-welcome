@@ -1,9 +1,7 @@
 # 名词解释
 
-- ECE: Electrical and Computer Engineering，电子与计算机工程。**计算机工程的缩写为CompE (Computer Engineering)**
-- EE: Electrical Engineering，电气工程及其自动化
-- ME: Mechanical Engineering，机械工程
-- CE: Civil Engineering，土木工程。**在美国对应的专业为CEE (Civil and Environmental Engineering)**
+## ZJE 及通用名词
+
 - BMI: 生物医学信息学
 - BMS: 生物医学科学
 - BB: Blackboard，主要的作业网站
@@ -19,3 +17,10 @@
 - LTW: Lecture Theatre West，西讲堂
 - LTN-A: Learning and Teaching Building North，北教A
 - LTN-B: Learning and Teaching Building North，北教B
+
+## ZJUI 名词（存档）
+
+- ECE: Electrical and Computer Engineering，电子与计算机工程。**计算机工程的缩写为CompE (Computer Engineering)**
+- EE: Electrical Engineering，电气工程及其自动化
+- ME: Mechanical Engineering，机械工程
+- CE: Civil Engineering，土木工程。**在美国对应的专业为CEE (Civil and Environmental Engineering)**

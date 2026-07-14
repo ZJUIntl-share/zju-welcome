@@ -23,7 +23,7 @@
 
 - [生物信息学专业课程清单](../../assets/haining/BMI%20dual-degree%20courses.pdf)
 
-## ZJUI
+## ZJUI（存档）
 
 - [ZJUI 培养方案(无需登录)](https://zjui.intl.zju.edu.cn/teaching/undergraduate)
 - [ZJUI 培养方案(需登录)](https://zjuintl.sharepoint.com/sites/ZJUIUG)
