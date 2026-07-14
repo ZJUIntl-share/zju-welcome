@@ -1,4 +1,4 @@
-site_name: 2025年浙江大学本科新生指引
+site_name: 2026年浙江大学本科新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
 repo_name: zju-welcome
@@ -94,19 +94,19 @@ nav:
     - 常用信息:
       - 院历: "haining/basics/school_calendar.md"
       - 校区地图: "haining/basics/campus_map.md"
-      - 常用电话: "haining/basics/contact.md"
-      - 常用网站: "haining/basics/websites.md"
       - 公众号和小程序: "haining/basics/channels.md"
       - 校园网指南: "haining/basics/network.md"
+      - 常用网站: "haining/basics/websites.md"
+      - 常用电话: "haining/basics/contact.md"
       - 白嫖指南: "haining/basics/free.md"
+    - 校园生活: "haining/life/canteen_dorm.md"
     - 学习:
-      - 名词解释: "haining/learning/concepts.md"
       - 培养方案: "haining/learning/program.md"
-      - 课程考核: "haining/learning/eval.md"
       - 大一课程简介: "haining/learning/course_intro.md"
       - 通识课: "haining/learning/general_edu.md"
+      - 课程考核: "haining/learning/eval.md"
+      - 名词解释: "haining/learning/concepts.md"
     - 评奖评优: "haining/scholarship.md"
-    - 校园生活: "haining/life/canteen_dorm.md"
     - 社会实践: "haining/life/practice.md"
 
   - 港澳台生专题:
