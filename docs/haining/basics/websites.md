@@ -17,7 +17,7 @@
 
 | [**Blackboard**](https://learn.intl.zju.edu.cn/) | **作业、成绩**                       |
 | ------------------------------------------------ | ------------------------------------ |
-| [**Peoplesoft**](https://scrsprd.zju.edu.cn/)    | **选课、查询课表、考试、成绩、排名** |
+| [**PeopleSoft**](https://scrsprd.zju.edu.cn/)    | **选课、查询课表、考试、成绩、排名** |
 | [**Canvas**](https://canvas.illinois.edu/)       | **作业、成绩、考试**                 |
 
 ## 信息类

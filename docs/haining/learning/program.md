@@ -19,11 +19,11 @@
 
 生物信息学是生物科学与信息科学的交叉学科，旨在通过引进和整合浙江大学和爱丁堡大学的优质教育资源，培养具备优良的生物信息科学素养，既掌握生物科学技术又掌握计算机科学技术，拥有生物数据信息处理分析能力，能在相关研究机构、高等院校或高新技术公司等企事业单位从事科研、教学、开发和领导等工作的高级科学技术和管理人才。
 
-生物信息学专业总学分 146 分，其中必修课 126 学分，选修课 20 学分；其中通识课程 28 学分，大类课程 13 学分，专业及专业基础课程 85 学分（含105实践 17.5 学分）。
+生物信息学专业总学分 146 分，其中必修课 126 学分，选修课 20 学分；其中通识课程 28 学分，大类课程 13 学分，专业及专业基础课程 85 学分（含实践 17.5 学分）。
 
 - [生物信息学专业课程清单](../../assets/haining/BMI%20dual-degree%20courses.pdf)
 
 ## ZJUI（存档）
 
-- [ZJUI 培养方案(无需登录)](https://zjui.intl.zju.edu.cn/teaching/undergraduate)
-- [ZJUI 培养方案(需登录)](https://zjuintl.sharepoint.com/sites/ZJUIUG)
+- [ZJUI 培养方案（无需登录）](https://zjui.intl.zju.edu.cn/teaching/undergraduate)
+- [ZJUI 培养方案（需登录）](https://zjuintl.sharepoint.com/sites/ZJUIUG)
