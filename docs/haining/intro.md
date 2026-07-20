@@ -17,7 +17,7 @@
 
 ## 继续更新与参与
 
-本部分内容由 [@ZJUIntl-share](https://github.com/ZJUIntl-share) 维护，欢迎各位海宁国际校区的同学对内容进行补充。如果你有任何问题或建议，欢迎联系我们，或者直接在 GitHub 上提交 issue 或 pull request。
+本部分负责人：@沉学的狗某，由 [@ZJUIntl-share](https://github.com/ZJUIntl-share) 维护。欢迎各位海宁国际校区的同学对内容进行补充；如果有任何问题或建议，可以联系 [dong48@illinois.edu](mailto:dong48@illinois.edu)，或者直接在 GitHub 上提交 issue 或 pull request。
 
 > 本校区介绍并非浙江大学官方发布，内容仅供参考。
 
